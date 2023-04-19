@@ -1,4 +1,4 @@
-# sivapullaih_game_changer-_activity
+# sivapullaih_game_changer_activity
 <pre>
 echo "# sivapullaih_game_changer-_activity" >> README.md
 git init
