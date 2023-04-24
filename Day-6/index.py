@@ -23,7 +23,9 @@ def test(*d):
 def fib(n):
     first=0
     second=1
-    
+    if n==0:
+        print("Invalid input")
+        return None
     for each in range(n):
         if each==0:
             print(0)
